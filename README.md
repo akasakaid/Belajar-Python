@@ -18,4 +18,18 @@
 	2. Sublime Text
 	3. IDLE Python
 	
-4. 
+4. Memulai 'Hello World'
+5. Indent
+6. Comment / Komentar
+7. Variabel dan Tipe Data
+	1. String
+	2. Integer
+	3. Float
+	4. Boolean
+	5. List
+	6. Dictionary
+	7. Set
+	8. Complex
+	9. Tuple
+
+
