@@ -42,6 +42,7 @@
 	6. Pangkat
 	7. Jumlah Bagi
 10. Percabangan : if, elif, else
+
 	Operator yang biasa dipakai dalam percabangan :
 	== : sama dengan
 	!= : tidak sama dengan
