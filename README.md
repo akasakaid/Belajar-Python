@@ -31,5 +31,23 @@
 	7. Set
 	8. Complex
 	9. Tuple
+	10. bytes
+8. Merubah Tipe Data
+9. Operator Aritmatika
+	1. Tambah
+	2. Kurang
+	3. Bagi
+	4. Kali
+	5. Hasil Bagi
+	6. Pangkat
+	7. Jumlah Bagi
+10. Percabangan : if, elif, else
+	Operator yang biasa dipakai dalam percabangan :
+	== : sama dengan
+	!= : tidak sama dengan
+	> : lebih dari
+	< : kurang dari
+	>= : lebih dari atau sama dengan
+	<= : kurang dari atau sama dengan
 
 
