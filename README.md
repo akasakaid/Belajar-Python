@@ -1,1 +1,1 @@
-# Belajar-Python
+# Belajar Python
