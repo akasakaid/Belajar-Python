@@ -3,6 +3,7 @@
 ### Berikut list materi tentang Belajar Python
 
 ### Chapter 1
+link : [https://youtu.be/4uviv52S2aQ](https://youtu.be/4uviv52S2aQ)
 1. Pengenalan Python
 
 	Python merupakan bahasa pemrograman yang populer, Python dibuat oleh Guido van Rossum. Sekarang versi Python mencapai 3.10.
