@@ -33,8 +33,10 @@ link : [https://youtu.be/4uviv52S2aQ](https://youtu.be/4uviv52S2aQ)
 	8. Complex
 	9. Tuple
 	10. bytes
-8. Merubah Tipe Data
-9. Operator Aritmatika
+
+### Chapter 2 (OMW)
+1. Merubah Tipe Data
+2. Operator Aritmatika
 	1. Tambah
 	2. Kurang
 	3. Bagi
@@ -42,7 +44,7 @@ link : [https://youtu.be/4uviv52S2aQ](https://youtu.be/4uviv52S2aQ)
 	5. Hasil Bagi
 	6. Pangkat
 	7. Jumlah Bagi
-10. Percabangan : if, elif, else
-11. Perulangan While
-12. Perulangan For
+3. Percabangan : if, elif, else
+4. Perulangan While
+5. Perulangan For
 
