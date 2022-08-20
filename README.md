@@ -44,7 +44,9 @@ link : [https://youtu.be/4uviv52S2aQ](https://youtu.be/4uviv52S2aQ)
 	5. Hasil Bagi
 	6. Pangkat
 	7. Jumlah Bagi
-3. Percabangan : if, elif, else
-4. Perulangan While
-5. Perulangan For
+### Chapter 3
+1. Percabangan : if, elif, else
+
+2. Perulangan While
+3. Perulangan For
 
