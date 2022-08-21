@@ -34,7 +34,8 @@ link : [https://youtu.be/4uviv52S2aQ](https://youtu.be/4uviv52S2aQ)
 	9. Tuple
 	10. bytes
 
-### Chapter 2 (OMW)
+### Chapter 2 
+link : [https://youtu.be/a2v9k5VSKlA](https://youtu.be/a2v9k5VSKlA)
 1. Merubah Tipe Data
 2. Operator Aritmatika
 	1. Tambah
