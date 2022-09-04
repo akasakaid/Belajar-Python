@@ -47,7 +47,5 @@ link : [https://youtu.be/a2v9k5VSKlA](https://youtu.be/a2v9k5VSKlA)
 	7. Jumlah Bagi
 ### Chapter 3
 1. Percabangan : if, elif, else
-
-2. Perulangan While
-3. Perulangan For
+2. Percabangan Lanjut
 
