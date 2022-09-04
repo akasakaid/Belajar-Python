@@ -52,3 +52,6 @@ link : [https://youtu.be/a2v9k5VSKlA](https://youtu.be/a2v9k5VSKlA)
 ### Chapter 4
 1. Perulangan while
 2. Perulangan for
+
+### Chapter 5
+1. Function
