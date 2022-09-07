@@ -45,11 +45,15 @@ link : [https://youtu.be/a2v9k5VSKlA](https://youtu.be/a2v9k5VSKlA)
 	5. Hasil Bagi
 	6. Pangkat
 	7. Jumlah Bagi
+
 ### Chapter 3
 1. Percabangan : if, elif, else
+link : [https://youtu.be/4zOniU2guXs](https://youtu.be/4zOniU2guXs)
 2. Percabangan Lanjut
+link : [https://youtu.be/sPLssgjB9ng](https://youtu.be/sPLssgjB9ng)
 
 ### Chapter 4
+link : [https://youtu.be/UyneLM8Wtgs](https://youtu.be/UyneLM8Wtgs)
 1. Perulangan while
 2. Perulangan for
 
