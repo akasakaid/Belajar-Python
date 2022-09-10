@@ -60,4 +60,8 @@ link : [https://youtu.be/UyneLM8Wtgs](https://youtu.be/UyneLM8Wtgs)
 2. Perulangan for
 
 ### Chapter 5
-1. Function
+link : [https://youtu.be/13Pl3r87Xdg](https://youtu.be/13Pl3r87Xdg)
+1. Function 
+
+link : [https://youtu.be/JJdv-jILM7k](https://youtu.be/JJdv-jILM7k)
+2. Function Lanjut
