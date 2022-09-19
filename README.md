@@ -65,3 +65,11 @@ link : [https://youtu.be/13Pl3r87Xdg](https://youtu.be/13Pl3r87Xdg)
 
 link : [https://youtu.be/JJdv-jILM7k](https://youtu.be/JJdv-jILM7k)
 2. Function Lanjut
+
+3. Lambda
+
+## Chapter 6
+1. String
+2. List
+3. Tuple
+4. Dictionary
