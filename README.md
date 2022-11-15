@@ -1,75 +1,21 @@
-# Belajar Python
+## TABLE OF CONTENT
 
-### Berikut list materi tentang Belajar Python
-
-### Chapter 1
-link : [https://youtu.be/4uviv52S2aQ](https://youtu.be/4uviv52S2aQ)
-1. Pengenalan Python
-
-	Python merupakan bahasa pemrograman yang populer, Python dibuat oleh Guido van Rossum. Sekarang versi Python mencapai 3.10.
-
-2. Install Python
-
-	kamu bisa menginstall python melalui website officialnya : https://python.org
-
-3. Persiapan code editor
-
-	Beberapa rekomendasi code editor :
-	1. Visual Studio Code 
-	2. Sublime Text
-	3. IDLE Python
-	
-4. Memulai 'Hello World'
-5. Indent
-6. Comment / Komentar
-7. Variabel dan Tipe Data
-	1. String
-	2. Integer
-	3. Float
-	4. Boolean
-	5. List
-	6. Dictionary
-	7. Set
-	8. Complex
-	9. Tuple
-	10. bytes
-
-### Chapter 2 
-link : [https://youtu.be/a2v9k5VSKlA](https://youtu.be/a2v9k5VSKlA)
-1. Merubah Tipe Data
-2. Operator Aritmatika
-	1. Tambah
-	2. Kurang
-	3. Bagi
-	4. Kali
-	5. Hasil Bagi
-	6. Pangkat
-	7. Jumlah Bagi
-
-### Chapter 3
-1. Percabangan : if, elif, else
-
-link : [https://youtu.be/4zOniU2guXs](https://youtu.be/4zOniU2guXs)
-2. Percabangan Lanjut
-
-link : [https://youtu.be/sPLssgjB9ng](https://youtu.be/sPLssgjB9ng)
-
-### Chapter 4
-link : [https://youtu.be/UyneLM8Wtgs](https://youtu.be/UyneLM8Wtgs)
-1. Perulangan while
-2. Perulangan for
-
-### Chapter 5
-link : [https://youtu.be/13Pl3r87Xdg](https://youtu.be/13Pl3r87Xdg)
-1. Function 
-
-link : [https://youtu.be/JJdv-jILM7k](https://youtu.be/JJdv-jILM7k)
-2. Function Lanjut
-
-3. Lambda
-
-## Chapter 6
-1. String
-2. List
-3. Tuple
-4. Dictionary
+| NO  | CHAPTER   | JUDUL                                                         | LINK                         |
+| --- | --------- | ------------------------------------------------------------- | ---------------------------- |
+| 1   | CHAPTER 1 | Belajar Python - Chapter 1 : Pengenalan dan Sintak Dasar      | https://youtu.be/4uviv52S2aQ |
+| 2   | CHAPTER 2 | Belajar Python - Chapter 2 : Merubah Tipe Data dan Aritmatika | https://youtu.be/a2v9k5VSKlA |
+| 3   | CHAPTER 3 | Belajar Python - Chapter 3 : Percabangan Logika               | https://youtu.be/4zOniU2guXs |
+| 4   | CHAPTER 3 | Belajar Python - Chapter 3 : Percabangan Lanjut               | https://youtu.be/sPLssgjB9ng |
+| 5   | CHAPTER 4 | Belajar Python - Chapter 4 : Perulangan                       | https://youtu.be/UyneLM8Wtgs |
+| 6   | CHAPTER 5 | Belajar Python - Chapter 5 : Function                         | https://youtu.be/swfWYgVVkXg |
+| 7   | CHAPTER 5 | Belajar Python - Chapter 5 : Function Lanjut                  | https://youtu.be/JJdv-jILM7k |
+| 8   | CHAPTER 5 | Belajar Python - Chapter 5 : Lambda                           | https://youtu.be/EdeMrPNgSy4 |
+| 9   | CHAPTER 6 | Belajar Python - Chapter 6 : String                           | https://youtu.be/LZ30iH8WJLw |
+| 10  | CHPATER 6 | Belajar Python - Chapter 6 : List                             | https://youtu.be/C4i_hwsDOrs |
+| 11  | CHAPTER 6 | Belajar Python - Chapter 6 : Tuple                            | https://youtu.be/sZxo6mv574I |
+| 12  | CHAPTER 6 | Belajar Python - Chapter 6 : Dictionary                       | https://youtu.be/hrXBUzMWyMk |
+| 13  | CHAPTER 6 | Belajar Python - Chapter 6 : Dictionary Lanjut                | https://youtu.be/-G4H2y3VSZY |
+| 14  | CHAPTER 7 | Belajar Python - Chapter 7 : OOP CLASS PART 1                 | https://youtu.be/0kDF-spReWU |
+| 15  | CHAPTER 7 | Belajar Python - Chapter 7 : OOP CLASS PART 2                 | https://youtu.be/UsHnqw2boPo |
+| 16  | CHAPTER 7 | Belajar Python - Chapter 7 : Inheritance / Pewarisan          | https://youtu.be/zhQ9CeIPQsQ |
+| 17  | CHAPTER 8 | Belajar Python - Chapter 8 : Scope Variabel                   | https://youtu.be/2TEzht6gxrQ |
